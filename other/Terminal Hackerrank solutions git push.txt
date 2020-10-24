@@ -1,0 +1,83 @@
+Last login: Tue Oct 13 20:53:23 on console
+ilgizduseev@MacBook-Air-Ilgiz ~ % cd ~/Projects/HACKERRANK-SOLUTIONS/
+ilgizduseev@MacBook-Air-Ilgiz HACKERRANK-SOLUTIONS % git remote -v
+origin	git@github.com:alumination17/HACKERRANK-SOLUTIONS.git (fetch)
+origin	git@github.com:alumination17/HACKERRANK-SOLUTIONS.git (push)
+ilgizduseev@MacBook-Air-Ilgiz HACKERRANK-SOLUTIONS % git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	algorithms/
+	other/
+
+nothing added to commit but untracked files present (use "git add" to track)
+ilgizduseev@MacBook-Air-Ilgiz HACKERRANK-SOLUTIONS % git add .
+ilgizduseev@MacBook-Air-Ilgiz HACKERRANK-SOLUTIONS % git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   .DS_Store
+	new file:   algorithms/.DS_Store
+	new file:   algorithms/a_very_big_sum/solution.ipynb
+	new file:   algorithms/compare_the_triplets/solution.ipynb
+	new file:   algorithms/diagonal_difference/.python-version
+	new file:   algorithms/diagonal_difference/input01.txt
+	new file:   algorithms/diagonal_difference/solution.py
+	new file:   algorithms/implementation/apple_and_orange/slow_solution.py
+	new file:   algorithms/implementation/apple_and_orange/solution.py
+	new file:   algorithms/implementation/between_two_sets/solution.py
+	new file:   algorithms/implementation/breaking_the_records/solution.py
+	new file:   algorithms/implementation/circular_array_rotation/.DS_Store
+	new file:   algorithms/implementation/circular_array_rotation/solution.py
+	new file:   algorithms/implementation/grading_students/solution.py
+	new file:   algorithms/implementation/number_line_jumps/solution.py
+	new file:   algorithms/mini-MaxSsum/birthday_cake_candles/solution.py
+	new file:   algorithms/mini-MaxSsum/solution.py
+	new file:   algorithms/plus_minus/solution.py
+	new file:   algorithms/simple_array_sum/solution.ipynb
+	new file:   algorithms/staircase/solution.py
+	new file:   algorithms/time_conversion/solution.py
+	new file:   other/Advanced String Formatting methods.ipynb
+
+ilgizduseev@MacBook-Air-Ilgiz HACKERRANK-SOLUTIONS % git commit -m "First commit"
+[master 60b813d] First commit
+ 22 files changed, 1192 insertions(+)
+ create mode 100644 .DS_Store
+ create mode 100644 algorithms/.DS_Store
+ create mode 100644 algorithms/a_very_big_sum/solution.ipynb
+ create mode 100644 algorithms/compare_the_triplets/solution.ipynb
+ create mode 100644 algorithms/diagonal_difference/.python-version
+ create mode 100644 algorithms/diagonal_difference/input01.txt
+ create mode 100644 algorithms/diagonal_difference/solution.py
+ create mode 100644 algorithms/implementation/apple_and_orange/slow_solution.py
+ create mode 100644 algorithms/implementation/apple_and_orange/solution.py
+ create mode 100644 algorithms/implementation/between_two_sets/solution.py
+ create mode 100644 algorithms/implementation/breaking_the_records/solution.py
+ create mode 100644 algorithms/implementation/circular_array_rotation/.DS_Store
+ create mode 100644 algorithms/implementation/circular_array_rotation/solution.py
+ create mode 100644 algorithms/implementation/grading_students/solution.py
+ create mode 100644 algorithms/implementation/number_line_jumps/solution.py
+ create mode 100644 algorithms/mini-MaxSsum/birthday_cake_candles/solution.py
+ create mode 100644 algorithms/mini-MaxSsum/solution.py
+ create mode 100644 algorithms/plus_minus/solution.py
+ create mode 100644 algorithms/simple_array_sum/solution.ipynb
+ create mode 100644 algorithms/staircase/solution.py
+ create mode 100644 algorithms/time_conversion/solution.py
+ create mode 100644 other/Advanced String Formatting methods.ipynb
+ilgizduseev@MacBook-Air-Ilgiz HACKERRANK-SOLUTIONS % git push
+Warning: Permanently added the RSA host key for IP address '140.82.121.4' to the list of known hosts.
+Enumerating objects: 43, done.
+Counting objects: 100% (43/43), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (29/29), done.
+Writing objects: 100% (42/42), 15.51 KiB | 1.94 MiB/s, done.
+Total 42 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas: 100% (3/3), done.
+To github.com:alumination17/HACKERRANK-SOLUTIONS.git
+   b1d1082..60b813d  master -> master
+ilgizduseev@MacBook-Air-Ilgiz HACKERRANK-SOLUTIONS % 

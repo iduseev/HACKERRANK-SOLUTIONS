@@ -1,0 +1,1288 @@
+Last login: Fri Sep 25 04:06:53 on console
+ilgizduseev@MacBook-Air-Ilgiz ~ % mdmd5
+zsh: command not found: mdmd5
+ilgizduseev@MacBook-Air-Ilgiz ~ % md5
+abcd
+
+8b7ce3b2013de723f8440ae968305999
+ilgizduseev@MacBook-Air-Ilgiz ~ % md5
+snitch nigga!
+d3c5128f90da1f098d46379804863b59
+ilgizduseev@MacBook-Air-Ilgiz ~ % brew install pyenv
+Updating Homebrew...
+==> Auto-updated Homebrew!
+Updated 2 taps (homebrew/core and homebrew/cask).
+==> New Formulae
+flit                  leaf                  libaio                libmnl                libnetfilter-queue    libnfnetlink          rustscan              vivid                 webify
+==> Updated Formulae
+Updated 250 formulae.
+==> New Casks
+anka-build-cloud-registry               boost-note                              craft                                   hoststool                               querypie
+anka-virtualization                     cernbox                                 ditto                                   loni-pipeline                           rotki
+archi                                   classicftp                              eudic-es                                multi                                   techsmith-capture
+==> Updated Casks
+1password-cli                     dcp-o-matic-player                insomnia                          mockuuups-studio                  qownnotes                         thebrain
+8bitdo-ultimate-software          debookee                          insomnia-designer                 mongodb-compass                   quail                             thedesk
+a-better-finder-attributes        deezer                            insync                            mongodb-compass-isolated-edition  quickbooks                        thorium
+abstract                          dexed                             integrity                         mongodb-compass-readonly          quicken                           thunderbird
+acorn                             dmm-player                        ipvanish-vpn                      monitorcontrol                    qxmledit                          ticktick
+activedock                        docker                            iridient-developer                mountain-duck                     realm-studio                      tiger-trade
+aerial                            doly                              iris                              mps                               reaper                            timemator
+ajour                             dropbox                           istat-menus                       multitouch                        refined-github-safari             tinkerwell
+alt-tab                           dropshare                         itubedownloader                   mumu                              rekordbox                         tinymediamanager
+altair-graphql-client             easyeda                           izip                              musictube                         remotix-agent                     tla-plus-toolbox
+ammonite                          electerm                          jalview                           native-access                     removebg                          toggl-track
+anki                              electron                          jami                              neo4j                             rescuetime                        tor-browser
+anydesk                           element                           jamulus                           netnewswire                       responsively                      torguard
+anydo                             elmedia-player                    jaxx-liberty                      netron                            rotato                            touchdesigner
+ark-desktop-wallet                eloston-chromium                  jbrowse                           nextcloud                         royal-tsx                         tracks-live
+autopkgr                          emby-server                       jedit-omega                       nomachine                         rstudio                           trailer
+aws-vault                         emclient                          jitsi-meet                        nomachine-enterprise-client       rsyncosx                          transnomino
+axe-edit-iii                      epichrome                         joplin                            nordvpn                           sapmachine-jdk                    tresorit
+axure-rp                          eudic                             julia                             nordvpn-teams                     scratch                           trilium-notes
+azure-data-studio                 exodus                            jumpshare                         nosqlbooster-for-mongodb          screen                            tunnelbear
+bartender                         expandrive                        katalon-studio                    nova                              scrutiny                          tuple
+bbc-iplayer-downloads             expressvpn                        kdiff3                            nteract                           scummvm                           tweetbot
+beyond-compare                    ezip                              keep-it                           nvidia-geforce-now                seadrive                          ubersicht
+birdfont                          fantastical                       keysmith                          obs                               second-life-viewer                ueli
+bitwig-studio                     feishu                            kid3                              obsidian                          segger-embedded-studio-for-arm    unity
+blender                           fellow                            kite                              ocenaudio                         sequel-ace                        unity-android-support-for-editor
+blitz                             filebot                           klayout                           odrive                            session                           unity-hub
+blocs                             fing                              kubernetic                        one-switch                        sf-symbols                        unity-ios-support-for-editor
+blueharvest                       firefox                           lando                             onedrive                          shift                             unity-lumin-support-for-editor
+bluestacks                        fitbit-os-simulator               lark                              onyx                              shotcut                           unity-webgl-support-for-editor
+boop                              flipper                           lastpass                          openbazaar                        sidenotes                         unity-windows-support-for-editor
+brave-browser                     flutter                           latexit                           openineditor-lite                 sidequest                         usenapp
+bria                              fly                               lbry                              openinterminal-lite               signal                            utools
+bricklink-studio                  fme                               lens                              openrct2                          silentknight                      vagrant-vmware-utility
+browserosaurus                    fractal-bot                       lightproxy                        openrefine                        simply-fortran                    vassal
+butt                              framer                            lightworks                        opera                             sitebulb                          vesta
+calibre                           freeyourmusic                     linear-linear                     origami-studio                    sizzy                             visual-studio
+camo-studio                       frhelper                          local                             p4v                               smartgit                          visual-studio-code
+caprine                           fritzing                          loom                              packetproxy                       soulver                           vivaldi
+ccleaner                          front                             lrtimelapse                       pastebot                          soundsource                       vrew
+cellprofiler                      gdlauncher                        macdive                           pd                                spatterlight                      vscodium
+checkra1n                         gemini                            macs-fan-control                  pd-l2ork                          sqlectron                         vuescan
+chemdoodle                        geogebra                          macvim                            pdfelement                        sqlpro-for-mssql                  waterfox-current
+chromium                          ghost-browser                     macx-dvd-ripper-pro               phpstorm                          sqlpro-for-mysql                  waves-central
+cisdem-document-reader            github                            malus                             plex                              sqlpro-studio                     weakauras-companion
+clash-for-windows                 gnucash                           markdown-service-tools            plexamp                           stack-stack                       webcatalog
+cleanshot                         gobdokumente                      marvel                            popo                              standard-notes                    webex-teams
+clickup                           goodsync                          max                               postgres                          stats                             whale
+clockify                          google-chrome                     mcreator                          postman                           subler                            whalebird
+cmake                             gpg-suite-pinentry                media-center                      praat                             subsurface                        whatsapp
+craftmanager                      gpxsee                            meetingbar                        proclaim                          superproductivity                 wireshark
+cycling74-max                     grandtotal                        melodics                          profind                           swift-publisher                   wireshark-chmodbpf
+dangerzone                        hammerspoon                       mendeley-reference-manager        protonmail-unofficial             swiftformat-for-xcode             wondershare-uniconverter
+dash                              hbuilderx                         merlin-project                    protopie                          swifty                            workflowy
+dashlane                          hey                               metasploit                        prowritingaid                     syncovery                         wpsoffice
+db-browser-for-sqlite             home-assistant                    mia-for-gmail                     proxyman                          taskade                           x-swiftformat
+dbeaver-community                 ibackup-viewer                    microsoft-edge                    publii                            tastyworks                        xamarin-ios
+dbschema                          ibm-cloud-cli                     microsoft-teams                   pycharm-edu                       teamviewer                        ximalaya
+dcp-o-matic                       icab                              milanote                          pyfa                              telavox-flow                      yinxiangbiji
+dcp-o-matic-batch-converter       iconjar                           mindjet-mindmanager               qfinder-pro                       tempo                             zalo
+dcp-o-matic-encode-server         imazing                           minecraftpe                       qlab                              termius                           zoom-for-it-admins
+dcp-o-matic-kdm-creator           inkdrop                           missive                           qobuz                             textadept                         zoomus
+==> Deleted Casks
+anka-flow                                          chicken                                            hand-mirror                                        jing
+
+==> Downloading https://homebrew.bintray.com/bottles/autoconf-2.69.catalina.bottle.4.tar.gz
+==> Downloading from https://d29vzk4ow07wi7.cloudfront.net/ca510b350e941fb9395522a03f9d2fb5df276085d806ceead763acb95889a368?response-content-disposition=attachment%3Bfilename%3D%22autoconf-2.69.catalina
+######################################################################## 100.0%
+==> Downloading https://homebrew.bintray.com/bottles/pkg-config-0.29.2_3.catalina.bottle.tar.gz
+==> Downloading from https://d29vzk4ow07wi7.cloudfront.net/80f141e695f73bd058fd82e9f539dc67471666ff6800c5e280b5af7d3050f435?response-content-disposition=attachment%3Bfilename%3D%22pkg-config-0.29.2_3.ca
+######################################################################## 100.0%
+==> Downloading https://homebrew.bintray.com/bottles/pyenv-1.2.20.catalina.bottle.tar.gz
+==> Downloading from https://d29vzk4ow07wi7.cloudfront.net/74e2f3a7cf6513948cbac05f3af8f3f2ae7df825dfc21a91759963afbb398420?response-content-disposition=attachment%3Bfilename%3D%22pyenv-1.2.20.catalina.
+######################################################################## 100.0%
+==> Installing dependencies for pyenv: autoconf and pkg-config
+==> Installing pyenv dependency: autoconf
+==> Pouring autoconf-2.69.catalina.bottle.4.tar.gz
+🍺  /usr/local/Cellar/autoconf/2.69: 67 files, 3.0MB
+==> Installing pyenv dependency: pkg-config
+==> Pouring pkg-config-0.29.2_3.catalina.bottle.tar.gz
+🍺  /usr/local/Cellar/pkg-config/0.29.2_3: 11 files, 623.8KB
+==> Installing pyenv
+==> Pouring pyenv-1.2.20.catalina.bottle.tar.gz
+🍺  /usr/local/Cellar/pyenv/1.2.20: 708 files, 2.5MB
+ilgizduseev@MacBook-Air-Ilgiz ~ % pwd                                                  
+/Users/ilgizduseev
+ilgizduseev@MacBook-Air-Ilgiz ~ % mkdir Projects
+ilgizduseev@MacBook-Air-Ilgiz ~ % ll
+zsh: command not found: ll
+ilgizduseev@MacBook-Air-Ilgiz ~ % ls
+Applications	Desktop		Documents	Downloads	Library		Movies		Music		Pictures	Projects	Public
+ilgizduseev@MacBook-Air-Ilgiz ~ % ls-l
+zsh: command not found: ls-l
+ilgizduseev@MacBook-Air-Ilgiz ~ % ls -l
+total 0
+drwx------@  4 ilgizduseev  staff   128 25 май 14:30 Applications
+drwx------+  4 ilgizduseev  staff   128 26 сен 18:05 Desktop
+drwx------+  5 ilgizduseev  staff   160  2 июл 18:15 Documents
+drwx------@ 19 ilgizduseev  staff   608 30 сен 02:13 Downloads
+drwx------@ 74 ilgizduseev  staff  2368 25 сен 00:57 Library
+drwx------+  5 ilgizduseev  staff   160 22 авг 19:44 Movies
+drwx------+  6 ilgizduseev  staff   192 25 май 15:09 Music
+drwx------+  6 ilgizduseev  staff   192 22 июн 17:54 Pictures
+drwxr-xr-x   2 ilgizduseev  staff    64  1 окт 00:29 Projects
+drwxr-xr-x+  5 ilgizduseev  staff   160 22 авг 19:44 Public
+ilgizduseev@MacBook-Air-Ilgiz ~ % ls -la
+total 56
+drwxr-xr-x+ 22 ilgizduseev  staff    704  1 окт 00:29 .
+drwxr-xr-x   5 root         admin    160  3 мар  2020 ..
+-r--------   1 ilgizduseev  staff      8  6 июн 21:51 .CFUserTextEncoding
+drwx------   2 ilgizduseev  staff     64 19 июл 15:13 .DDPreview
+-rw-r--r--@  1 ilgizduseev  staff  14340  5 сен 23:37 .DS_Store
+drwx------  58 ilgizduseev  staff   1856 29 сен 13:52 .Trash
+drwxr-xr-x   5 ilgizduseev  staff    160 10 июл 15:55 .android
+drwx------   3 ilgizduseev  staff     96 25 май 13:30 .cups
+-rw-r--r--   1 ilgizduseev  staff    188  3 июл 00:21 .gitconfig
+drwxr-xr-x   3 ilgizduseev  staff     96  6 июн 16:55 .oracle_jre_usage
+drwx------@  4 ilgizduseev  staff    128  1 авг 19:19 .yandex
+-rw-------   1 ilgizduseev  staff   1274 22 сен 10:26 .zsh_history
+drwx------@  4 ilgizduseev  staff    128 25 май 14:30 Applications
+drwx------+  4 ilgizduseev  staff    128 26 сен 18:05 Desktop
+drwx------+  5 ilgizduseev  staff    160  2 июл 18:15 Documents
+drwx------@ 19 ilgizduseev  staff    608 30 сен 02:13 Downloads
+drwx------@ 74 ilgizduseev  staff   2368 25 сен 00:57 Library
+drwx------+  5 ilgizduseev  staff    160 22 авг 19:44 Movies
+drwx------+  6 ilgizduseev  staff    192 25 май 15:09 Music
+drwx------+  6 ilgizduseev  staff    192 22 июн 17:54 Pictures
+drwxr-xr-x   2 ilgizduseev  staff     64  1 окт 00:29 Projects
+drwxr-xr-x+  5 ilgizduseev  staff    160 22 авг 19:44 Public
+ilgizduseev@MacBook-Air-Ilgiz ~ % vim .zshrc
+ilgizduseev@MacBook-Air-Ilgiz ~ % ls -la    
+total 72
+drwxr-xr-x+ 24 ilgizduseev  staff    768  1 окт 00:33 .
+drwxr-xr-x   5 root         admin    160  3 мар  2020 ..
+-r--------   1 ilgizduseev  staff      8  6 июн 21:51 .CFUserTextEncoding
+drwx------   2 ilgizduseev  staff     64 19 июл 15:13 .DDPreview
+-rw-r--r--@  1 ilgizduseev  staff  14340  5 сен 23:37 .DS_Store
+drwx------  58 ilgizduseev  staff   1856 29 сен 13:52 .Trash
+drwxr-xr-x   5 ilgizduseev  staff    160 10 июл 15:55 .android
+drwx------   3 ilgizduseev  staff     96 25 май 13:30 .cups
+-rw-r--r--   1 ilgizduseev  staff    188  3 июл 00:21 .gitconfig
+drwxr-xr-x   3 ilgizduseev  staff     96  6 июн 16:55 .oracle_jre_usage
+-rw-------   1 ilgizduseev  staff    793  1 окт 00:33 .viminfo
+drwx------@  4 ilgizduseev  staff    128  1 авг 19:19 .yandex
+-rw-------   1 ilgizduseev  staff   1274 22 сен 10:26 .zsh_history
+-rw-r--r--   1 ilgizduseev  staff     19  1 окт 00:33 .zshrc
+drwx------@  4 ilgizduseev  staff    128 25 май 14:30 Applications
+drwx------+  4 ilgizduseev  staff    128 26 сен 18:05 Desktop
+drwx------+  5 ilgizduseev  staff    160  2 июл 18:15 Documents
+drwx------@ 19 ilgizduseev  staff    608 30 сен 02:13 Downloads
+drwx------@ 74 ilgizduseev  staff   2368 25 сен 00:57 Library
+drwx------+  5 ilgizduseev  staff    160 22 авг 19:44 Movies
+drwx------+  6 ilgizduseev  staff    192 25 май 15:09 Music
+drwx------+  6 ilgizduseev  staff    192 22 июн 17:54 Pictures
+drwxr-xr-x   2 ilgizduseev  staff     64  1 окт 00:29 Projects
+drwxr-xr-x+  5 ilgizduseev  staff    160 22 авг 19:44 Public
+ilgizduseev@MacBook-Air-Ilgiz ~ % ll
+zsh: command not found: ll
+ilgizduseev@MacBook-Air-Ilgiz ~ % source .zshrc 
+ilgizduseev@MacBook-Air-Ilgiz ~ % ll
+total 72
+drwxr-xr-x+ 24 ilgizduseev  staff    768  1 окт 00:33 .
+drwxr-xr-x   5 root         admin    160  3 мар  2020 ..
+-r--------   1 ilgizduseev  staff      8  6 июн 21:51 .CFUserTextEncoding
+drwx------   2 ilgizduseev  staff     64 19 июл 15:13 .DDPreview
+-rw-r--r--@  1 ilgizduseev  staff  14340  5 сен 23:37 .DS_Store
+drwx------  58 ilgizduseev  staff   1856 29 сен 13:52 .Trash
+drwxr-xr-x   5 ilgizduseev  staff    160 10 июл 15:55 .android
+drwx------   3 ilgizduseev  staff     96 25 май 13:30 .cups
+-rw-r--r--   1 ilgizduseev  staff    188  3 июл 00:21 .gitconfig
+drwxr-xr-x   3 ilgizduseev  staff     96  6 июн 16:55 .oracle_jre_usage
+-rw-------   1 ilgizduseev  staff    793  1 окт 00:33 .viminfo
+drwx------@  4 ilgizduseev  staff    128  1 авг 19:19 .yandex
+-rw-------   1 ilgizduseev  staff   1274 22 сен 10:26 .zsh_history
+-rw-r--r--   1 ilgizduseev  staff     19  1 окт 00:33 .zshrc
+drwx------@  4 ilgizduseev  staff    128 25 май 14:30 Applications
+drwx------+  4 ilgizduseev  staff    128 26 сен 18:05 Desktop
+drwx------+  5 ilgizduseev  staff    160  2 июл 18:15 Documents
+drwx------@ 19 ilgizduseev  staff    608 30 сен 02:13 Downloads
+drwx------@ 74 ilgizduseev  staff   2368 25 сен 00:57 Library
+drwx------+  5 ilgizduseev  staff    160 22 авг 19:44 Movies
+drwx------+  6 ilgizduseev  staff    192 25 май 15:09 Music
+drwx------+  6 ilgizduseev  staff    192 22 июн 17:54 Pictures
+drwxr-xr-x   2 ilgizduseev  staff     64  1 окт 00:29 Projects
+drwxr-xr-x+  5 ilgizduseev  staff    160 22 авг 19:44 Public
+ilgizduseev@MacBook-Air-Ilgiz ~ % cd Projects 
+ilgizduseev@MacBook-Air-Ilgiz Projects % git clone git@github.com:alumination17/HACKERRANK-SOLUTIONS.git     
+Cloning into 'HACKERRANK-SOLUTIONS'...
+The authenticity of host 'github.com (140.82.121.3)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? y
+Please type 'yes', 'no' or the fingerprint: yes
+Warning: Permanently added 'github.com,140.82.121.3' (RSA) to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ilgizduseev@MacBook-Air-Ilgiz Projects % mkdir .ssh
+ilgizduseev@MacBook-Air-Ilgiz Projects % cd .ssh
+ilgizduseev@MacBook-Air-Ilgiz .ssh % ssh-keygen -t rsa -f id_rsa 
+Generating public/private rsa key pair.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in id_rsa.
+Your public key has been saved in id_rsa.pub.
+The key fingerprint is:
+SHA256:zdbRSLSFT/I5nt47Oy16ieOjInAcpRchW91GnRZOnH8 ilgizduseev@MacBook-Air-Ilgiz.local
+The key's randomart image is:
++---[RSA 3072]----+
+|      . oo +++++ |
+|       +o ..=BB  |
+|      .o . .+*oo |
+|      o .o . .= E|
+|     . oS + .. o.|
+|    . o  .    o  |
+|     o       o o.|
+|      . .   + =oo|
+|       . ..oo= +=|
++----[SHA256]-----+
+ilgizduseev@MacBook-Air-Ilgiz .ssh % ll
+total 16
+drwxr-xr-x  4 ilgizduseev  staff   128  1 окт 00:50 .
+drwxr-xr-x  3 ilgizduseev  staff    96  1 окт 00:45 ..
+-rw-------  1 ilgizduseev  staff  2635  1 окт 00:50 id_rsa
+-rw-r--r--  1 ilgizduseev  staff   589  1 окт 00:50 id_rsa.pub
+ilgizduseev@MacBook-Air-Ilgiz .ssh % cat id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDWEg577PFgi1qpy8XQTR9p819a6fzIaF7ydm3zvJQ4hZz7g5aPY//rnnc5LCQjRX/QndzqjxIJOrYUkB5tAy2b+ZIqcRl1VZcU1ORBJuf2yEegNb51VgmfKuyqYLAdnwL31SoKozO8iQz8WAZBw3Tou9yoBexWLwnWsaNEXWvVCctKpFCJi9H9ceCIYhI8ujlrbChPpLcwQfKqSQaB2cI46MAdWLp31UEy8rRE2ck6RH9b1T/gaq4dCSCNvvNCZyI8K1q2EfuA2nSSVKajrnv7S4U+mYG2npXBl+X2JzPHhEMncF2FrRauaW1PYCenbCwJZHYt9fKD0J9orrEfo5CSUegyazG3uu5TZRqnJjhoCIU7jiov3SbNv6iCczzWP+Tez5mfODGvha/RzJHQkeTuqKhfKedezpl4zgBbIzIjCilV0wAxaZOmVJa19+bPH8PRvXIQnh5I5u/VJ9jSlnC/467pIr1iQXgxy4XeocN28C+f3MrLIK7fMvGvYiaKyBs= ilgizduseev@MacBook-Air-Ilgiz.local
+ilgizduseev@MacBook-Air-Ilgiz .ssh % cat id_rca
+cat: id_rca: No such file or directory
+ilgizduseev@MacBook-Air-Ilgiz .ssh % cat id_rsa
+-----BEGIN OPENSSH PRIVATE KEY-----
+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
+BAUGBw==
+-----END OPENSSH PRIVATE KEY-----
+ilgizduseev@MacBook-Air-Ilgiz .ssh % cd - 
+~/Projects
+ilgizduseev@MacBook-Air-Ilgiz Projects % git clone git@github.com:alumination17/HACKERRANK-SOLUTIONS.git
+Cloning into 'HACKERRANK-SOLUTIONS'...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ilgizduseev@MacBook-Air-Ilgiz Projects % cd -                                                           
+~/Projects/.ssh
+ilgizduseev@MacBook-Air-Ilgiz .ssh % vim config 
+ilgizduseev@MacBook-Air-Ilgiz .ssh % cd -                                                           
+~/Projects
+ilgizduseev@MacBook-Air-Ilgiz Projects % git clone git@github.com:alumination17/HACKERRANK-SOLUTIONS.git
+Cloning into 'HACKERRANK-SOLUTIONS'...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ilgizduseev@MacBook-Air-Ilgiz Projects % GIT_SSH_COMMAND="ssh -vvv" git clone git@github.com:alumination17/HACKERRANK-SOLUTIONS.git
+Cloning into 'HACKERRANK-SOLUTIONS'...
+OpenSSH_8.1p1, LibreSSL 2.7.3
+debug1: Reading configuration data /etc/ssh/ssh_config
+debug1: /etc/ssh/ssh_config line 47: Applying options for *
+debug1: Connecting to github.com port 22.
+debug1: Connection established.
+debug1: identity file /Users/ilgizduseev/.ssh/id_rsa type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_rsa-cert type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_dsa type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_dsa-cert type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_ecdsa type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_ecdsa-cert type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_ed25519 type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_ed25519-cert type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_xmss type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_xmss-cert type -1
+debug1: Local version string SSH-2.0-OpenSSH_8.1
+debug1: Remote protocol version 2.0, remote software version babeld-88a6481e
+debug1: no match: babeld-88a6481e
+debug3: fd 5 is O_NONBLOCK
+debug1: Authenticating to github.com:22 as 'git'
+debug3: hostkeys_foreach: reading file "/Users/ilgizduseev/.ssh/known_hosts"
+debug3: record_hostkey: found key type RSA in file /Users/ilgizduseev/.ssh/known_hosts:1
+debug3: load_hostkeys: loaded 1 keys from github.com
+debug3: order_hostkeyalgs: prefer hostkeyalgs: rsa-sha2-512-cert-v01@openssh.com,rsa-sha2-256-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,rsa-sha2-512,rsa-sha2-256,ssh-rsa
+debug3: send packet: type 20
+debug1: SSH2_MSG_KEXINIT sent
+debug3: receive packet: type 20
+debug1: SSH2_MSG_KEXINIT received
+debug2: local client KEXINIT proposal
+debug2: KEX algorithms: curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c
+debug2: host key algorithms: rsa-sha2-512-cert-v01@openssh.com,rsa-sha2-256-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,rsa-sha2-512,rsa-sha2-256,ssh-rsa,ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ssh-ed25519-cert-v01@openssh.com,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,ssh-ed25519
+debug2: ciphers ctos: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com
+debug2: ciphers stoc: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com
+debug2: MACs ctos: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+debug2: MACs stoc: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+debug2: compression ctos: none,zlib@openssh.com,zlib
+debug2: compression stoc: none,zlib@openssh.com,zlib
+debug2: languages ctos: 
+debug2: languages stoc: 
+debug2: first_kex_follows 0 
+debug2: reserved 0 
+debug2: peer server KEXINIT proposal
+debug2: KEX algorithms: curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256
+debug2: host key algorithms: rsa-sha2-512,rsa-sha2-256,ssh-rsa,ssh-dss
+debug2: ciphers ctos: chacha20-poly1305@openssh.com,aes256-gcm@openssh.com,aes128-gcm@openssh.com,aes256-ctr,aes192-ctr,aes128-ctr,aes256-cbc,aes192-cbc,aes128-cbc
+debug2: ciphers stoc: chacha20-poly1305@openssh.com,aes256-gcm@openssh.com,aes128-gcm@openssh.com,aes256-ctr,aes192-ctr,aes128-ctr,aes256-cbc,aes192-cbc,aes128-cbc
+debug2: MACs ctos: hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+debug2: MACs stoc: hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+debug2: compression ctos: none
+debug2: compression stoc: none
+debug2: languages ctos: 
+debug2: languages stoc: 
+debug2: first_kex_follows 0 
+debug2: reserved 0 
+debug1: kex: algorithm: curve25519-sha256
+debug1: kex: host key algorithm: rsa-sha2-512
+debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+debug3: send packet: type 30
+debug1: expecting SSH2_MSG_KEX_ECDH_REPLY
+debug3: receive packet: type 31
+debug1: Server host key: ssh-rsa SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8
+debug3: hostkeys_foreach: reading file "/Users/ilgizduseev/.ssh/known_hosts"
+debug3: record_hostkey: found key type RSA in file /Users/ilgizduseev/.ssh/known_hosts:1
+debug3: load_hostkeys: loaded 1 keys from github.com
+debug3: hostkeys_foreach: reading file "/Users/ilgizduseev/.ssh/known_hosts"
+debug3: record_hostkey: found key type RSA in file /Users/ilgizduseev/.ssh/known_hosts:1
+debug3: load_hostkeys: loaded 1 keys from 140.82.121.3
+debug1: Host 'github.com' is known and matches the RSA host key.
+debug1: Found key in /Users/ilgizduseev/.ssh/known_hosts:1
+debug3: send packet: type 21
+debug2: set_newkeys: mode 1
+debug1: rekey out after 134217728 blocks
+debug1: SSH2_MSG_NEWKEYS sent
+debug1: expecting SSH2_MSG_NEWKEYS
+debug3: receive packet: type 21
+debug1: SSH2_MSG_NEWKEYS received
+debug2: set_newkeys: mode 0
+debug1: rekey in after 134217728 blocks
+debug1: Will attempt key: /Users/ilgizduseev/.ssh/id_rsa 
+debug1: Will attempt key: /Users/ilgizduseev/.ssh/id_dsa 
+debug1: Will attempt key: /Users/ilgizduseev/.ssh/id_ecdsa 
+debug1: Will attempt key: /Users/ilgizduseev/.ssh/id_ed25519 
+debug1: Will attempt key: /Users/ilgizduseev/.ssh/id_xmss 
+debug2: pubkey_prepare: done
+debug3: send packet: type 5
+debug3: receive packet: type 7
+debug1: SSH2_MSG_EXT_INFO received
+debug1: kex_input_ext_info: server-sig-algs=<ssh-ed25519-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp256-cert-v01@openssh.com,rsa-sha2-512-cert-v01@openssh.com,rsa-sha2-256-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,ssh-dss-cert-v01@openssh.com,ssh-ed25519,ecdsa-sha2-nistp521,ecdsa-sha2-nistp384,ecdsa-sha2-nistp256,rsa-sha2-512,rsa-sha2-256,ssh-rsa,ssh-dss>
+debug3: receive packet: type 6
+debug2: service_accept: ssh-userauth
+debug1: SSH2_MSG_SERVICE_ACCEPT received
+debug3: send packet: type 50
+debug3: receive packet: type 51
+debug1: Authentications that can continue: publickey
+debug3: start over, passed a different list publickey
+debug3: preferred publickey,keyboard-interactive,password
+debug3: authmethod_lookup publickey
+debug3: remaining preferred: keyboard-interactive,password
+debug3: authmethod_is_enabled publickey
+debug1: Next authentication method: publickey
+debug1: Trying private key: /Users/ilgizduseev/.ssh/id_rsa
+debug3: no such identity: /Users/ilgizduseev/.ssh/id_rsa: No such file or directory
+debug1: Trying private key: /Users/ilgizduseev/.ssh/id_dsa
+debug3: no such identity: /Users/ilgizduseev/.ssh/id_dsa: No such file or directory
+debug1: Trying private key: /Users/ilgizduseev/.ssh/id_ecdsa
+debug3: no such identity: /Users/ilgizduseev/.ssh/id_ecdsa: No such file or directory
+debug1: Trying private key: /Users/ilgizduseev/.ssh/id_ed25519
+debug3: no such identity: /Users/ilgizduseev/.ssh/id_ed25519: No such file or directory
+debug1: Trying private key: /Users/ilgizduseev/.ssh/id_xmss
+debug3: no such identity: /Users/ilgizduseev/.ssh/id_xmss: No such file or directory
+debug2: we did not send a packet, disable method
+debug1: No more authentication methods to try.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ilgizduseev@MacBook-Air-Ilgiz Projects % stat /Users/ilgizduseev/.ssh/id_rsa
+stat: /Users/ilgizduseev/.ssh/id_rsa: stat: No such file or directory
+ilgizduseev@MacBook-Air-Ilgiz Projects % cd -
+~/Projects/.ssh
+ilgizduseev@MacBook-Air-Ilgiz .ssh % pwd
+/Users/ilgizduseev/Projects/.ssh
+ilgizduseev@MacBook-Air-Ilgiz .ssh % cd -
+~/Projects
+ilgizduseev@MacBook-Air-Ilgiz Projects % mv .ssh ~/.ssh
+ilgizduseev@MacBook-Air-Ilgiz Projects % git clone git@github.com:alumination17/HACKERRANK-SOLUTIONS.git                           
+Cloning into 'HACKERRANK-SOLUTIONS'...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ilgizduseev@MacBook-Air-Ilgiz Projects % GIT_SSH_COMMAND="ssh -vvv" git clone git@github.com:alumination17/HACKERRANK-SOLUTIONS.git
+Cloning into 'HACKERRANK-SOLUTIONS'...
+OpenSSH_8.1p1, LibreSSL 2.7.3
+debug1: Reading configuration data /etc/ssh/ssh_config
+debug1: /etc/ssh/ssh_config line 47: Applying options for *
+debug1: Connecting to github.com port 22.
+debug1: Connection established.
+debug1: identity file /Users/ilgizduseev/.ssh/id_rsa type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_rsa-cert type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_dsa type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_dsa-cert type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_ecdsa type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_ecdsa-cert type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_ed25519 type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_ed25519-cert type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_xmss type -1
+debug1: identity file /Users/ilgizduseev/.ssh/id_xmss-cert type -1
+debug1: Local version string SSH-2.0-OpenSSH_8.1
+debug1: Remote protocol version 2.0, remote software version babeld-88a6481e
+debug1: no match: babeld-88a6481e
+debug3: fd 5 is O_NONBLOCK
+debug1: Authenticating to github.com:22 as 'git'
+debug3: hostkeys_foreach: reading file "/Users/ilgizduseev/.ssh/known_hosts"
+debug3: record_hostkey: found key type RSA in file /Users/ilgizduseev/.ssh/known_hosts:1
+debug3: load_hostkeys: loaded 1 keys from github.com
+debug3: order_hostkeyalgs: prefer hostkeyalgs: rsa-sha2-512-cert-v01@openssh.com,rsa-sha2-256-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,rsa-sha2-512,rsa-sha2-256,ssh-rsa
+debug3: send packet: type 20
+debug1: SSH2_MSG_KEXINIT sent
+debug3: receive packet: type 20
+debug1: SSH2_MSG_KEXINIT received
+debug2: local client KEXINIT proposal
+debug2: KEX algorithms: curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c
+debug2: host key algorithms: rsa-sha2-512-cert-v01@openssh.com,rsa-sha2-256-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,rsa-sha2-512,rsa-sha2-256,ssh-rsa,ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ssh-ed25519-cert-v01@openssh.com,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,ssh-ed25519
+debug2: ciphers ctos: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com
+debug2: ciphers stoc: chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr,aes128-gcm@openssh.com,aes256-gcm@openssh.com
+debug2: MACs ctos: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+debug2: MACs stoc: umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+debug2: compression ctos: none,zlib@openssh.com,zlib
+debug2: compression stoc: none,zlib@openssh.com,zlib
+debug2: languages ctos: 
+debug2: languages stoc: 
+debug2: first_kex_follows 0 
+debug2: reserved 0 
+debug2: peer server KEXINIT proposal
+debug2: KEX algorithms: curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256
+debug2: host key algorithms: rsa-sha2-512,rsa-sha2-256,ssh-rsa,ssh-dss
+debug2: ciphers ctos: chacha20-poly1305@openssh.com,aes256-gcm@openssh.com,aes128-gcm@openssh.com,aes256-ctr,aes192-ctr,aes128-ctr,aes256-cbc,aes192-cbc,aes128-cbc
+debug2: ciphers stoc: chacha20-poly1305@openssh.com,aes256-gcm@openssh.com,aes128-gcm@openssh.com,aes256-ctr,aes192-ctr,aes128-ctr,aes256-cbc,aes192-cbc,aes128-cbc
+debug2: MACs ctos: hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+debug2: MACs stoc: hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1
+debug2: compression ctos: none
+debug2: compression stoc: none
+debug2: languages ctos: 
+debug2: languages stoc: 
+debug2: first_kex_follows 0 
+debug2: reserved 0 
+debug1: kex: algorithm: curve25519-sha256
+debug1: kex: host key algorithm: rsa-sha2-512
+debug1: kex: server->client cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+debug1: kex: client->server cipher: chacha20-poly1305@openssh.com MAC: <implicit> compression: none
+debug3: send packet: type 30
+debug1: expecting SSH2_MSG_KEX_ECDH_REPLY
+debug3: receive packet: type 31
+debug1: Server host key: ssh-rsa SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8
+debug3: hostkeys_foreach: reading file "/Users/ilgizduseev/.ssh/known_hosts"
+debug3: record_hostkey: found key type RSA in file /Users/ilgizduseev/.ssh/known_hosts:1
+debug3: load_hostkeys: loaded 1 keys from github.com
+debug3: hostkeys_foreach: reading file "/Users/ilgizduseev/.ssh/known_hosts"
+debug3: record_hostkey: found key type RSA in file /Users/ilgizduseev/.ssh/known_hosts:1
+debug3: load_hostkeys: loaded 1 keys from 140.82.121.3
+debug1: Host 'github.com' is known and matches the RSA host key.
+debug1: Found key in /Users/ilgizduseev/.ssh/known_hosts:1
+debug3: send packet: type 21
+debug2: set_newkeys: mode 1
+debug1: rekey out after 134217728 blocks
+debug1: SSH2_MSG_NEWKEYS sent
+debug1: expecting SSH2_MSG_NEWKEYS
+debug3: receive packet: type 21
+debug1: SSH2_MSG_NEWKEYS received
+debug2: set_newkeys: mode 0
+debug1: rekey in after 134217728 blocks
+debug1: Will attempt key: /Users/ilgizduseev/.ssh/id_rsa 
+debug1: Will attempt key: /Users/ilgizduseev/.ssh/id_dsa 
+debug1: Will attempt key: /Users/ilgizduseev/.ssh/id_ecdsa 
+debug1: Will attempt key: /Users/ilgizduseev/.ssh/id_ed25519 
+debug1: Will attempt key: /Users/ilgizduseev/.ssh/id_xmss 
+debug2: pubkey_prepare: done
+debug3: send packet: type 5
+debug3: receive packet: type 7
+debug1: SSH2_MSG_EXT_INFO received
+debug1: kex_input_ext_info: server-sig-algs=<ssh-ed25519-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp256-cert-v01@openssh.com,rsa-sha2-512-cert-v01@openssh.com,rsa-sha2-256-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,ssh-dss-cert-v01@openssh.com,ssh-ed25519,ecdsa-sha2-nistp521,ecdsa-sha2-nistp384,ecdsa-sha2-nistp256,rsa-sha2-512,rsa-sha2-256,ssh-rsa,ssh-dss>
+debug3: receive packet: type 6
+debug2: service_accept: ssh-userauth
+debug1: SSH2_MSG_SERVICE_ACCEPT received
+debug3: send packet: type 50
+debug3: receive packet: type 51
+debug1: Authentications that can continue: publickey
+debug3: start over, passed a different list publickey
+debug3: preferred publickey,keyboard-interactive,password
+debug3: authmethod_lookup publickey
+debug3: remaining preferred: keyboard-interactive,password
+debug3: authmethod_is_enabled publickey
+debug1: Next authentication method: publickey
+debug1: Trying private key: /Users/ilgizduseev/.ssh/id_rsa
+debug3: no such identity: /Users/ilgizduseev/.ssh/id_rsa: No such file or directory
+debug1: Trying private key: /Users/ilgizduseev/.ssh/id_dsa
+debug3: no such identity: /Users/ilgizduseev/.ssh/id_dsa: No such file or directory
+debug1: Trying private key: /Users/ilgizduseev/.ssh/id_ecdsa
+debug3: no such identity: /Users/ilgizduseev/.ssh/id_ecdsa: No such file or directory
+debug1: Trying private key: /Users/ilgizduseev/.ssh/id_ed25519
+debug3: no such identity: /Users/ilgizduseev/.ssh/id_ed25519: No such file or directory
+debug1: Trying private key: /Users/ilgizduseev/.ssh/id_xmss
+debug3: no such identity: /Users/ilgizduseev/.ssh/id_xmss: No such file or directory
+debug2: we did not send a packet, disable method
+debug1: No more authentication methods to try.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ilgizduseev@MacBook-Air-Ilgiz Projects % stat /Users/ilgizduseev/.ssh/id_rsa                                                       
+stat: /Users/ilgizduseev/.ssh/id_rsa: stat: No such file or directory
+ilgizduseev@MacBook-Air-Ilgiz Projects % ll ~/.ssh
+total 8
+drwx------   4 ilgizduseev  staff  128  1 окт 01:07 .
+drwxr-xr-x+ 25 ilgizduseev  staff  800  1 окт 01:02 ..
+drwxr-xr-x   5 ilgizduseev  staff  160  1 окт 01:02 .ssh
+-rw-r--r--   1 ilgizduseev  staff  405  1 окт 00:37 known_hosts
+ilgizduseev@MacBook-Air-Ilgiz Projects % mv ~/.ssh/.ssh/* ~/.ssh
+ilgizduseev@MacBook-Air-Ilgiz Projects % ll ~/.ssh              
+total 32
+drwx------   7 ilgizduseev  staff   224  1 окт 01:09 .
+drwxr-xr-x+ 25 ilgizduseev  staff   800  1 окт 01:02 ..
+drwxr-xr-x   2 ilgizduseev  staff    64  1 окт 01:09 .ssh
+-rw-r--r--   1 ilgizduseev  staff    55  1 окт 01:02 config
+-rw-------   1 ilgizduseev  staff  2635  1 окт 00:50 id_rsa
+-rw-r--r--   1 ilgizduseev  staff   589  1 окт 00:50 id_rsa.pub
+-rw-r--r--   1 ilgizduseev  staff   405  1 окт 00:37 known_hosts
+ilgizduseev@MacBook-Air-Ilgiz Projects % rm ~/.ssh/.ssh 
+rm: /Users/ilgizduseev/.ssh/.ssh: is a directory
+ilgizduseev@MacBook-Air-Ilgiz Projects % rm -r ~/.ssh/.ssh 
+ilgizduseev@MacBook-Air-Ilgiz Projects % ll ~/.ssh              
+total 32
+drwx------   6 ilgizduseev  staff   192  1 окт 01:11 .
+drwxr-xr-x+ 25 ilgizduseev  staff   800  1 окт 01:02 ..
+-rw-r--r--   1 ilgizduseev  staff    55  1 окт 01:02 config
+-rw-------   1 ilgizduseev  staff  2635  1 окт 00:50 id_rsa
+-rw-r--r--   1 ilgizduseev  staff   589  1 окт 00:50 id_rsa.pub
+-rw-r--r--   1 ilgizduseev  staff   405  1 окт 00:37 known_hosts
+ilgizduseev@MacBook-Air-Ilgiz Projects % git clone git@github.com:alumination17/HACKERRANK-SOLUTIONS.git                           
+Cloning into 'HACKERRANK-SOLUTIONS'...
+remote: Enumerating objects: 9, done.
+remote: Counting objects: 100% (9/9), done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 9 (delta 2), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (9/9), done.
+Resolving deltas: 100% (2/2), done.
+ilgizduseev@MacBook-Air-Ilgiz Projects % cd -                                                           
+cd: no such file or directory: /Users/ilgizduseev/Projects/.ssh
+ilgizduseev@MacBook-Air-Ilgiz Projects % cd HACKERRANK-SOLUTIONS 
+ilgizduseev@MacBook-Air-Ilgiz HACKERRANK-SOLUTIONS % mv ALGORITHMS algorithms          
+ilgizduseev@MacBook-Air-Ilgiz HACKERRANK-SOLUTIONS % cd algorithms/diagonal_difference/solution.py 
+cd: not a directory: algorithms/diagonal_difference/solution.py
+ilgizduseev@MacBook-Air-Ilgiz HACKERRANK-SOLUTIONS % cd algorithms/diagonal_difference            
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % python --version
+Python 2.7.16
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % pyenv install --list 
+Available versions:
+  2.1.3
+  2.2.3
+  2.3.7
+  2.4.0
+  2.4.1
+  2.4.2
+  2.4.3
+  2.4.4
+  2.4.5
+  2.4.6
+  2.5.0
+  2.5.1
+  2.5.2
+  2.5.3
+  2.5.4
+  2.5.5
+  2.5.6
+  2.6.6
+  2.6.7
+  2.6.8
+  2.6.9
+  2.7.0
+  2.7-dev
+  2.7.1
+  2.7.2
+  2.7.3
+  2.7.4
+  2.7.5
+  2.7.6
+  2.7.7
+  2.7.8
+  2.7.9
+  2.7.10
+  2.7.11
+  2.7.12
+  2.7.13
+  2.7.14
+  2.7.15
+  2.7.16
+  2.7.17
+  2.7.18
+  3.0.1
+  3.1.0
+  3.1.1
+  3.1.2
+  3.1.3
+  3.1.4
+  3.1.5
+  3.2.0
+  3.2.1
+  3.2.2
+  3.2.3
+  3.2.4
+  3.2.5
+  3.2.6
+  3.3.0
+  3.3.1
+  3.3.2
+  3.3.3
+  3.3.4
+  3.3.5
+  3.3.6
+  3.3.7
+  3.4.0
+  3.4-dev
+  3.4.1
+  3.4.2
+  3.4.3
+  3.4.4
+  3.4.5
+  3.4.6
+  3.4.7
+  3.4.8
+  3.4.9
+  3.4.10
+  3.5.0
+  3.5-dev
+  3.5.1
+  3.5.2
+  3.5.3
+  3.5.4
+  3.5.5
+  3.5.6
+  3.5.7
+  3.5.8
+  3.5.9
+  3.6.0
+  3.6-dev
+  3.6.1
+  3.6.2
+  3.6.3
+  3.6.4
+  3.6.5
+  3.6.6
+  3.6.7
+  3.6.8
+  3.6.9
+  3.6.10
+  3.6.11
+  3.7.0
+  3.7-dev
+  3.7.1
+  3.7.2
+  3.7.3
+  3.7.4
+  3.7.5
+  3.7.6
+  3.7.7
+  3.7.8
+  3.8.0
+  3.8-dev
+  3.8.1
+  3.8.2
+  3.8.3
+  3.8.4
+  3.8.5
+  3.9.0b5
+  3.9-dev
+  3.10-dev
+  activepython-2.7.14
+  activepython-3.5.4
+  activepython-3.6.0
+  anaconda-1.4.0
+  anaconda-1.5.0
+  anaconda-1.5.1
+  anaconda-1.6.0
+  anaconda-1.6.1
+  anaconda-1.7.0
+  anaconda-1.8.0
+  anaconda-1.9.0
+  anaconda-1.9.1
+  anaconda-1.9.2
+  anaconda-2.0.0
+  anaconda-2.0.1
+  anaconda-2.1.0
+  anaconda-2.2.0
+  anaconda-2.3.0
+  anaconda-2.4.0
+  anaconda-4.0.0
+  anaconda2-2.4.0
+  anaconda2-2.4.1
+  anaconda2-2.5.0
+  anaconda2-4.0.0
+  anaconda2-4.1.0
+  anaconda2-4.1.1
+  anaconda2-4.2.0
+  anaconda2-4.3.0
+  anaconda2-4.3.1
+  anaconda2-4.4.0
+  anaconda2-5.0.0
+  anaconda2-5.0.1
+  anaconda2-5.1.0
+  anaconda2-5.2.0
+  anaconda2-5.3.0
+  anaconda2-5.3.1
+  anaconda2-2018.12
+  anaconda2-2019.03
+  anaconda2-2019.07
+  anaconda3-2.0.0
+  anaconda3-2.0.1
+  anaconda3-2.1.0
+  anaconda3-2.2.0
+  anaconda3-2.3.0
+  anaconda3-2.4.0
+  anaconda3-2.4.1
+  anaconda3-2.5.0
+  anaconda3-4.0.0
+  anaconda3-4.1.0
+  anaconda3-4.1.1
+  anaconda3-4.2.0
+  anaconda3-4.3.0
+  anaconda3-4.3.1
+  anaconda3-4.4.0
+  anaconda3-5.0.0
+  anaconda3-5.0.1
+  anaconda3-5.1.0
+  anaconda3-5.2.0
+  anaconda3-5.3.0
+  anaconda3-5.3.1
+  anaconda3-2018.12
+  anaconda3-2019.03
+  anaconda3-2019.07
+  anaconda3-2019.10
+  anaconda3-2020.02
+  ironpython-dev
+  ironpython-2.7.4
+  ironpython-2.7.5
+  ironpython-2.7.6.3
+  ironpython-2.7.7
+  jython-dev
+  jython-2.5.0
+  jython-2.5-dev
+  jython-2.5.1
+  jython-2.5.2
+  jython-2.5.3
+  jython-2.5.4-rc1
+  jython-2.7.0
+  jython-2.7.1
+  micropython-dev
+  micropython-1.9.3
+  micropython-1.9.4
+  micropython-1.10
+  micropython-1.11
+  micropython-1.12
+  miniconda-latest
+  miniconda-2.2.2
+  miniconda-3.0.0
+  miniconda-3.0.4
+  miniconda-3.0.5
+  miniconda-3.3.0
+  miniconda-3.4.2
+  miniconda-3.7.0
+  miniconda-3.8.3
+  miniconda-3.9.1
+  miniconda-3.10.1
+  miniconda-3.16.0
+  miniconda-3.18.3
+  miniconda2-latest
+  miniconda2-3.18.3
+  miniconda2-3.19.0
+  miniconda2-4.0.5
+  miniconda2-4.1.11
+  miniconda2-4.3.14
+  miniconda2-4.3.21
+  miniconda2-4.3.27
+  miniconda2-4.3.30
+  miniconda2-4.3.31
+  miniconda2-4.4.10
+  miniconda2-4.5.1
+  miniconda2-4.5.4
+  miniconda2-4.5.11
+  miniconda2-4.5.12
+  miniconda2-4.6.14
+  miniconda2-4.7.10
+  miniconda2-4.7.12
+  miniconda3-latest
+  miniconda3-2.2.2
+  miniconda3-3.0.0
+  miniconda3-3.0.4
+  miniconda3-3.0.5
+  miniconda3-3.3.0
+  miniconda3-3.4.2
+  miniconda3-3.7.0
+  miniconda3-3.8.3
+  miniconda3-3.9.1
+  miniconda3-3.10.1
+  miniconda3-3.16.0
+  miniconda3-3.18.3
+  miniconda3-3.19.0
+  miniconda3-4.0.5
+  miniconda3-4.1.11
+  miniconda3-4.2.12
+  miniconda3-4.3.11
+  miniconda3-4.3.14
+  miniconda3-4.3.21
+  miniconda3-4.3.27
+  miniconda3-4.3.30
+  miniconda3-4.3.31
+  miniconda3-4.4.10
+  miniconda3-4.5.1
+  miniconda3-4.5.4
+  miniconda3-4.5.11
+  miniconda3-4.5.12
+  miniconda3-4.6.14
+  miniconda3-4.7.10
+  miniconda3-4.7.12
+  pypy-c-jit-latest
+  pypy-c-nojit-latest
+  pypy-dev
+  pypy-stm-2.3
+  pypy-stm-2.5.1
+  pypy-1.5-src
+  pypy-1.5
+  pypy-1.6
+  pypy-1.7
+  pypy-1.8
+  pypy-1.9
+  pypy-2.0-src
+  pypy-2.0
+  pypy-2.0.1-src
+  pypy-2.0.1
+  pypy-2.0.2-src
+  pypy-2.0.2
+  pypy-2.1-src
+  pypy-2.1
+  pypy-2.2-src
+  pypy-2.2
+  pypy-2.2.1-src
+  pypy-2.2.1
+  pypy-2.3-src
+  pypy-2.3
+  pypy-2.3.1-src
+  pypy-2.3.1
+  pypy-2.4.0-src
+  pypy-2.4.0
+  pypy-2.5.0-src
+  pypy-2.5.0
+  pypy-2.5.1-src
+  pypy-2.5.1
+  pypy-2.6.0-src
+  pypy-2.6.0
+  pypy-2.6.1-src
+  pypy-2.6.1
+  pypy-4.0.0-src
+  pypy-4.0.0
+  pypy-4.0.1-src
+  pypy-4.0.1
+  pypy-5.0.0-src
+  pypy-5.0.0
+  pypy-5.0.1-src
+  pypy-5.0.1
+  pypy-5.1-src
+  pypy-5.1
+  pypy-5.1.1-src
+  pypy-5.1.1
+  pypy-5.3-src
+  pypy-5.3
+  pypy-5.3.1-src
+  pypy-5.3.1
+  pypy-5.4-src
+  pypy-5.4
+  pypy-5.4.1-src
+  pypy-5.4.1
+  pypy-5.6.0-src
+  pypy-5.6.0
+  pypy-5.7.0-src
+  pypy-5.7.0
+  pypy-5.7.1-src
+  pypy-5.7.1
+  pypy2-5.3-src
+  pypy2-5.3
+  pypy2-5.3.1-src
+  pypy2-5.3.1
+  pypy2-5.4-src
+  pypy2-5.4
+  pypy2-5.4.1-src
+  pypy2-5.4.1
+  pypy2-5.6.0-src
+  pypy2-5.6.0
+  pypy2-5.7.0-src
+  pypy2-5.7.0
+  pypy2-5.7.1-src
+  pypy2-5.7.1
+  pypy2.7-5.8.0-src
+  pypy2.7-5.8.0
+  pypy2.7-5.9.0-src
+  pypy2.7-5.9.0
+  pypy2.7-5.10.0-src
+  pypy2.7-5.10.0
+  pypy2.7-6.0.0-src
+  pypy2.7-6.0.0
+  pypy2.7-7.0.0-src
+  pypy2.7-7.0.0
+  pypy2.7-7.1.0-src
+  pypy2.7-7.1.0
+  pypy2.7-7.1.1-src
+  pypy2.7-7.1.1
+  pypy2.7-7.2.0-src
+  pypy2.7-7.2.0
+  pypy2.7-7.3.0-src
+  pypy2.7-7.3.0
+  pypy2.7-7.3.1-src
+  pypy2.7-7.3.1
+  pypy3-dev
+  pypy3-2.3.1-src
+  pypy3-2.3.1
+  pypy3-2.4.0-src
+  pypy3-2.4.0
+  pypy3.3-5.2-alpha1-src
+  pypy3.3-5.2-alpha1
+  pypy3.3-5.5-alpha-src
+  pypy3.3-5.5-alpha
+  pypy3.5-c-jit-latest
+  pypy3.5-5.7-beta-src
+  pypy3.5-5.7-beta
+  pypy3.5-5.7.1-beta-src
+  pypy3.5-5.7.1-beta
+  pypy3.5-5.8.0-src
+  pypy3.5-5.8.0
+  pypy3.5-5.9.0-src
+  pypy3.5-5.9.0
+  pypy3.5-5.10.0-src
+  pypy3.5-5.10.0
+  pypy3.5-5.10.1-src
+  pypy3.5-5.10.1
+  pypy3.5-6.0.0-src
+  pypy3.5-6.0.0
+  pypy3.5-7.0.0-src
+  pypy3.5-7.0.0
+  pypy3.6-7.0.0-src
+  pypy3.6-7.0.0
+  pypy3.6-7.1.0-src
+  pypy3.6-7.1.0
+  pypy3.6-7.1.1-src
+  pypy3.6-7.1.1
+  pypy3.6-7.2.0-src
+  pypy3.6-7.2.0
+  pypy3.6-7.3.0-src
+  pypy3.6-7.3.0
+  pypy3.6-7.3.1-src
+  pypy3.6-7.3.1
+  pyston-0.5.1
+  pyston-0.6.0
+  pyston-0.6.1
+  stackless-dev
+  stackless-2.7-dev
+  stackless-2.7.2
+  stackless-2.7.3
+  stackless-2.7.4
+  stackless-2.7.5
+  stackless-2.7.6
+  stackless-2.7.7
+  stackless-2.7.8
+  stackless-2.7.9
+  stackless-2.7.10
+  stackless-2.7.11
+  stackless-2.7.12
+  stackless-2.7.14
+  stackless-3.2.2
+  stackless-3.2.5
+  stackless-3.3.5
+  stackless-3.3.7
+  stackless-3.4-dev
+  stackless-3.4.1
+  stackless-3.4.2
+  stackless-3.4.7
+  stackless-3.5.4
+  stackless-3.7.5
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % pyenv install --list | grep 3.8
+  3.8.0
+  3.8-dev
+  3.8.1
+  3.8.2
+  3.8.3
+  3.8.4
+  3.8.5
+  miniconda-3.8.3
+  miniconda3-3.8.3
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % pyenv install 3.8.5
+python-build: use openssl@1.1 from homebrew
+python-build: use readline from homebrew
+Downloading Python-3.8.5.tar.xz...
+-> https://www.python.org/ftp/python/3.8.5/Python-3.8.5.tar.xz
+Installing Python-3.8.5...
+python-build: use readline from homebrew
+python-build: use zlib from xcode sdk
+Installed Python-3.8.5 to /Users/ilgizduseev/.pyenv/versions/3.8.5
+
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % pyenv versions 
+* system (set by /Users/ilgizduseev/.pyenv/version)
+  3.8.5
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % pyenv local 3.8.5
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % pyenv versions   
+  system
+* 3.8.5 (set by /Users/ilgizduseev/Projects/HACKERRANK-SOLUTIONS/algorithms/diagonal_difference/.python-version)
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % ll
+total 16
+drwxr-xr-x  4 ilgizduseev  staff   128  1 окт 01:47 .
+drwxr-xr-x  3 ilgizduseev  staff    96  1 окт 01:22 ..
+-rw-r--r--  1 ilgizduseev  staff     6  1 окт 01:47 .python-version
+-rw-r--r--  1 ilgizduseev  staff  1311  1 окт 01:24 solution.py
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % cat .python-version 
+3.8.5
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % python //version
+/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '//version': [Errno 2] No such file or directory
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % python --version
+Python 2.7.16
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % pyenv shell 3.8.5
+pyenv: shell integration not enabled. Run `pyenv init' for instructions.
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % pyenv init
+# Load pyenv automatically by appending
+# the following to ~/.zshrc:
+
+eval "$(pyenv init -)"
+
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % vim ~/.zshrc
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % vim
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % source ~/.zshrc
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % pyenv shell 3.8.5
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % python --version 
+Python 3.8.5
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % python
+Python 3.8.5 (default, Oct  1 2020, 01:44:19) 
+[Clang 12.0.0 (clang-1200.0.32.2)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> def MyNigga:
+  File "<stdin>", line 1
+    def MyNigga:
+               ^
+SyntaxError: invalid syntax
+>>> def MyNigga:
+  File "<stdin>", line 1
+    def MyNigga:
+               ^
+SyntaxError: invalid syntax
+>>> def MyNigga:
+  File "<stdin>", line 1
+    def MyNigga:
+               ^
+SyntaxError: invalid syntax
+>>> def MyNigga:
+  File "<stdin>", line 1
+    def MyNigga:
+               ^
+SyntaxError: invalid syntax
+>>> def MyNigga():
+...     print('Snitch hoe!")
+  File "<stdin>", line 2
+    print('Snitch hoe!")
+                       ^
+SyntaxError: EOL while scanning string literal
+>>> 
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % pip install ipython
+Collecting ipython
+  Downloading ipython-7.18.1-py3-none-any.whl (786 kB)
+     |████████████████████████████████| 786 kB 404 kB/s 
+Collecting decorator
+  Downloading decorator-4.4.2-py2.py3-none-any.whl (9.2 kB)
+Collecting backcall
+  Downloading backcall-0.2.0-py2.py3-none-any.whl (11 kB)
+Requirement already satisfied: setuptools>=18.5 in /Users/ilgizduseev/.pyenv/versions/3.8.5/lib/python3.8/site-packages (from ipython) (47.1.0)
+Collecting jedi>=0.10
+  Downloading jedi-0.17.2-py2.py3-none-any.whl (1.4 MB)
+     |████████████████████████████████| 1.4 MB 3.1 MB/s 
+Collecting pickleshare
+  Downloading pickleshare-0.7.5-py2.py3-none-any.whl (6.9 kB)
+Collecting pygments
+  Downloading Pygments-2.7.1-py3-none-any.whl (944 kB)
+     |████████████████████████████████| 944 kB 4.1 MB/s 
+Collecting pexpect>4.3; sys_platform != "win32"
+  Downloading pexpect-4.8.0-py2.py3-none-any.whl (59 kB)
+     |████████████████████████████████| 59 kB 4.3 MB/s 
+Collecting prompt-toolkit!=3.0.0,!=3.0.1,<3.1.0,>=2.0.0
+  Downloading prompt_toolkit-3.0.7-py3-none-any.whl (355 kB)
+     |████████████████████████████████| 355 kB 4.7 MB/s 
+Collecting traitlets>=4.2
+  Downloading traitlets-5.0.4-py3-none-any.whl (98 kB)
+     |████████████████████████████████| 98 kB 4.3 MB/s 
+Collecting appnope; sys_platform == "darwin"
+  Downloading appnope-0.1.0-py2.py3-none-any.whl (4.0 kB)
+Collecting parso<0.8.0,>=0.7.0
+  Downloading parso-0.7.1-py2.py3-none-any.whl (109 kB)
+     |████████████████████████████████| 109 kB 5.3 MB/s 
+Collecting ptyprocess>=0.5
+  Downloading ptyprocess-0.6.0-py2.py3-none-any.whl (39 kB)
+Collecting wcwidth
+  Downloading wcwidth-0.2.5-py2.py3-none-any.whl (30 kB)
+Collecting ipython-genutils
+  Downloading ipython_genutils-0.2.0-py2.py3-none-any.whl (26 kB)
+Installing collected packages: decorator, backcall, parso, jedi, pickleshare, pygments, ptyprocess, pexpect, wcwidth, prompt-toolkit, ipython-genutils, traitlets, appnope, ipython
+Successfully installed appnope-0.1.0 backcall-0.2.0 decorator-4.4.2 ipython-7.18.1 ipython-genutils-0.2.0 jedi-0.17.2 parso-0.7.1 pexpect-4.8.0 pickleshare-0.7.5 prompt-toolkit-3.0.7 ptyprocess-0.6.0 pygments-2.7.1 traitlets-5.0.4 wcwidth-0.2.5
+WARNING: You are using pip version 20.1.1; however, version 20.2.3 is available.
+You should consider upgrading via the '/Users/ilgizduseev/.pyenv/versions/3.8.5/bin/python3.8 -m pip install --upgrade pip' command.
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % ipython 
+Python 3.8.5 (default, Oct  1 2020, 01:44:19) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.18.1 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: def ThatsMyNigga(nigga):
+   ...:     if nigga == 'Lame':
+   ...:         print('You\'re lame ass nigga, get a fuck outta here!')
+   ...:     elif nigga = 'Bro':
+   ...:         print('That\'s my nigga!')
+  File "<ipython-input-1-0bd7aeceb717>", line 4
+    elif nigga = 'Bro':
+               ^
+SyntaxError: invalid syntax
+
+
+In [2]: def ThatsMyNigga(nigga):
+   ...:     if nigga == 'Lame':
+   ...:         print('You\'re lame ass nigga, get a fuck outta here!')
+   ...:     elif nigga = 'Bro':
+   ...:         print('That\'s my nigga!')
+  File "<ipython-input-2-0bd7aeceb717>", line 4
+    elif nigga = 'Bro':
+               ^
+SyntaxError: invalid syntax
+
+
+In [3]: def ThatsMyNigga(nigga):
+   ...:     if nigga == 'Lame':
+   ...:         print('You\'re lame ass nigga, get a fuck outta here!')
+   ...:     elif nigga = 'Bro':
+   ...:         print('That\'s my nigga!')
+  File "<ipython-input-3-0bd7aeceb717>", line 4
+    elif nigga = 'Bro':
+               ^
+SyntaxError: invalid syntax
+
+
+In [4]: def ThatsMyNigga(nigga):
+   ...:     if nigga == 'Lame':
+   ...:         print('You\'re lame ass nigga, get a fuck outta here!')
+   ...:     elif nigga == 'Bro':
+   ...:         print('That\'s my nigga!')
+   ...: a
+---------------------------------------------------------------------------
+NameError                                 Traceback (most recent call last)
+<ipython-input-4-e0395c2741f0> in <module>
+      4     elif nigga == 'Bro':
+      5         print('That\'s my nigga!')
+----> 6 a
+
+NameError: name 'a' is not defined
+
+In [5]: def ThatsMyNigga(nigga):
+   ...:     if nigga == 'Lame':
+   ...:         print('You\'re lame ass nigga, get a fuck outta here!')
+   ...:     elif nigga == 'Bro':
+   ...:         print('That\'s my nigga!')
+   ...: 
+
+In [6]: ThatsMyNigga('Bro')
+That's my nigga!
+
+In [7]: ThatsMyNigga('Lame')
+You're lame ass nigga, get a fuck outta here!
+
+In [8]: ThatsMyNigga('Snitch')
+
+In [9]: d = {}
+
+In [10]: d[1] = 'Stupid ass nigga'
+
+In [11]: d.items()
+Out[11]: dict_items([(1, 'Stupid ass nigga')])
+
+In [12]: d[1]
+Out[12]: 'Stupid ass nigga'
+
+In [13]: range(3)
+Out[13]: range(0, 3)
+
+In [14]: [i for i in range(3)]
+Out[14]: [0, 1, 2]
+
+In [15]: [str(i) for i in range(3)]
+Out[15]: ['0', '1', '2']
+
+In [16]: d
+Out[16]: {1: 'Stupid ass nigga'}
+
+In [17]:                                                                                                                                                                                                  
+Do you really want to exit ([y]/n)? y
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % vim input01.txt 
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % cat input01.txt | python solution.py 
+[[11, 2, 4], [4, 5, 6], [10, 8, -12]]
+4
+19
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % cat input01.txt | python solution.py
+[[11, 2, 4], [4, 5, 6], [10, 8, -12]]
+4
+19
+['3\n', '11 2 4\n', '4 5 6\n', '10 8 -12\n']
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % cat input01.txt | python solution.py
+[[11, 2, 4], [4, 5, 6], [10, 8, -12]]
+4
+19
+['3\n', '11 2 4\n', '4 5 6\n', '10 8 -12\n']
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % cat input01.txt | python solution.py
+[[11, 2, 4], [4, 5, 6], [10, 8, -12]]
+4
+19
+['3']
+['11', '2', '4']
+['4', '5', '6']
+['10', '8', '-12']
+['3\n', '11 2 4\n', '4 5 6\n', '10 8 -12\n']
+ilgizduseev@MacBook-Air-Ilgiz diagonal_difference % 
