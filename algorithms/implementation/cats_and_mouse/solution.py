@@ -3,14 +3,7 @@
 # Complete the catAndMouse function below.
 def catAndMouse(x, y, z):
 
-
-
-
-
-
-
-
-
+    return 'Cat A' if abs(z - x) < abs(z - y) else 'Mouse C' if abs(z - x) == abs(z - y) else 'Cat B'
 
 if __name__ == '__main__':
     # fptr = open(os.environ['OUTPUT_PATH'], 'w')
