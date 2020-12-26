@@ -3,9 +3,9 @@
 # Complete the cutTheSticks function below.
 def cutTheSticks(arr):
     
-    ''' I faced a problem that I literally don't need to return any value here in this problem. Not even 'None' return value
+    ''' I faced a problem that I literally don't need to return any value here. Not even 'None' return value
 allowed because it is not accepted by Hackerrank. 
-Meanwhile, I dodn't want to use 'raise-except' here in code to avoid any errors. 
+Meanwhile, I don't want to use 'raise-except' here in code to avoid any errors. 
 Therefore I decided just to use the code w/o defining a function (hence, w/o return value) and paste it on Hackerrank.'''
 
     while arr: # arr is always overridden so while it exists, loop continues
