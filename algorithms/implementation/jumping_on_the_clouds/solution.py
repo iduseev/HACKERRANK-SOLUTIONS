@@ -1,39 +1,36 @@
-#!/bin/python3
+
 
 # Complete the jumpingOnClouds function below.
-def jumpingOnClouds(c, k):
+def jumpingOnClouds(c):
 
-    p = 0 # initial position
+    i = 0 # initial index
+    jump = 0 # count number of jumps
 
-    e = 100 #initial energy 
-    
-    while e != 0:           # energy will decrease until conditions are not met
-        
-        e -= (c[p] * 2 + 1) # energy decreases depending whether the value of c[p] is 0 or 1 
-        p += k              # position increments by step k
+    while i < n - 1: # use n-1 because we ought to red last value in the array 
+    # and it shouldn't not exceed n until we increment i
 
-        if p >= n:          # if position of character is greater than of equal to the number of elements in array c 
-            p = p % n       # return remaining of the division
-        
-        if p == 0:          # if position turns into 0 after returning remaining of the division which means that p == n:
-            break           # break the loop as per task
+        if i + 2 < n and c[i + 2] == 0: # first check if i + 2 doesn't exceed the range and then the value of c[i+2]
+            jump += 1 # increment jump
+            i += 2 # increment i to check next i every time we made a jump
+            
+        elif c[i + 1] == 0: # no need to check if i + 1 < n because it already considered in while loop
+            jump += 1
+            i += 1
 
-    return e                
+    return jump
+
 
 if __name__ == '__main__':
     # fptr = open(os.environ['OUTPUT_PATH'], 'w')
+    print("Executing main function")
 
-    nk = input().split()
-
-    n = int(nk[0])
-
-    k = int(nk[1])
+    n = int(input())
 
     c = list(map(int, input().rstrip().split()))
 
-    result = jumpingOnClouds(c, k)
+    result = jumpingOnClouds(c)
 
-    print(result)
+    print (result)
 
     # fptr.write(str(result) + '\n')
 
