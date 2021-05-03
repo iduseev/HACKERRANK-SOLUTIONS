@@ -1,23 +1,19 @@
 #!/bin/python3
 
-# there are 2 cases to consider 
-# if i > 0 then a[i] becomes a[i-1]
-# if i = 0, then a[i] becomes a[i-1+n] for all i
-
-# This operation is similar to a[i] changing to a[i-1+n] for all i
-# 
-# After K operations, a[i] changes to a[i-k+n] % n.
-# If k > n, then (i-k+n) may go to negative& To circumvent this, we keep adding n until n > 0 and then just take modulo n.
-
-
 # Complete the circularArrayRotation function below.
 def circularArrayRotation(a, k, queries):
     
-# When the value of K is equal to N, the value of the array will remain the same after N rotations
-# n%k is the number of times the rotation has actually to take place
-
-    for _ in range(queries):
-        print(a[m-1] if)
+    while k > 0: 
+        # first_el = a[0]
+        last_el = a[-1]
+        a.insert(0, last_el)    #   insert last element to the index 1
+        a.pop()
+        k -= 1
+    
+    elements = []
+    for q in queries:
+        elements.append(a[q])
+    return elements
 
 if __name__ == '__main__':
     # fptr = open(os.environ['OUTPUT_PATH'], 'w')
@@ -39,6 +35,9 @@ if __name__ == '__main__':
         queries.append(queries_item)
 
     result = circularArrayRotation(a, k, queries)
+
+    for r in result:
+        print(r)
 
     # fptr.write('\n'.join(map(str, result)))
     # fptr.write('\n')
